@@ -1,0 +1,16 @@
+..................Teste a serem realizados..............
+testar os caminhos sombrios
+conferir todas mensagens de todas classes exemplo deletar cliente porém vem msg cliente selecionado com sucesso ou cadastrado com sucesso(deveria se deletado com sucesso).
+conferir todas as atribuções e testar os try ou incluir se necessário exemplo variáveis que recebem ID etc.
+criar identação em todas classes.
+Criar controle de Maiúsculas e Minúsculas
+
+.................Feitos.........
+conferido o MenuClienteCRUD.OP_ID, OP_NOME, OP_TELEFONE  
+conferir opções de todos os menus exemplo MenuClienteCRUD, MenuAviaoCRUD, MenuPassagem, MenuVoo, MenuVooCRUD etc.
+testar os cruds de todas as classes. Caminho Feliz (cliente APROVADO, avião APROVADO voo APROVADO, passagem APROVADO)
+fazer todos os testes nas interfaces de Passagem e voo pois ainda não foram testados.
+conferir com precisão os relatórios (por cliente APROVADO, destino APROVADO, origem APROVADO, voo APROVADO, periodo de voo APROVADO)
+
+................Em andamento(APROVADOS)........
+
